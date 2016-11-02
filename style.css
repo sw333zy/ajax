@@ -1,3 +1,37 @@
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+li {
+    list-style: none;
+    text-align: center;
+    background-color: #5E352C;
+    border: 2px solid #080807;
+    border-radius: 3px;
+    margin-top: 5%;
+    padding: 5%;
+    padding-bottom: none;
+}
+
+li p {
+    font-size: 3em;
+    padding-right: 35%;
+}
+
+nav {
+    width: 75%;
+}
+
+ul {
+    clear: both;
+}
+
+img {
+    width: 200px;
+    float: left;
+    border-radius: 3%;
+}
 
 
 /*# sourceMappingURL=style.css.map */
